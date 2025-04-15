@@ -1,0 +1,10 @@
+langchain
+chromadb
+openai
+tiktoken
+unstructured
+pypdf
+python-docx
+langchain-community
+langchain-ollama
+streamlit
